@@ -1,0 +1,8 @@
+class SchoolClass < ApplicationRecord
+
+
+
+
+
+    
+end
